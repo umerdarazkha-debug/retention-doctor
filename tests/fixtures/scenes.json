@@ -1,0 +1,8 @@
+{"scenes": [
+ {"start_s": 0.0, "end_s": 1.4, "label": "cold open", "on_screen_text": ""},
+ {"start_s": 1.4, "end_s": 3.0, "label": "title card", "on_screen_text": "Seven rules nobody told you about editing reels fast and clean", "text_at_s": 1.4},
+ {"start_s": 3.0, "end_s": 8.0, "label": "demo", "on_screen_text": "Rule one"},
+ {"start_s": 8.0, "end_s": 11.0, "label": "b-roll", "on_screen_text": ""},
+ {"start_s": 11.0, "end_s": 14.0, "label": "cta", "on_screen_text": "Follow for part 2"},
+ {"start_s": 14.0, "end_s": 20.0, "label": "outro", "on_screen_text": "Thanks"}
+]}

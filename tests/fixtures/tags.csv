@@ -1,0 +1,12 @@
+video_id,hook_type,format,topic,has_face,cta
+v01,bold-claim,tutorial,tools,yes,save
+v02,bold-claim,tutorial,tools,yes,save
+v03,bold-claim,tutorial,tools,yes,follow
+v04,bold-claim,tutorial,pricing,no,none
+v05,bold-claim,listicle,setup,no,none
+v06,question,listicle,gear,yes,save
+v07,question,listicle,travel,yes,follow
+v08,question,story,food,no,none
+v09,question,story,music,no,none
+v10,story,story,news,yes,none
+v11,story,story,sports,yes,none
